@@ -14,7 +14,7 @@
 
 ---
 [Plant-leaf-infection-detection](https://github.com/nik1806/Plant-leaf-infection-detection)
-<img src="images/leaf.ppg?raw=true"/>
+<img src="images/leaf.png?raw=true"/>
 
 ---
 [Multi-UAV-collision-avoidance](https://github.com/nik1806/Multi-UAV-collision-avoidance)
