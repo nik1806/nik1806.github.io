@@ -9,5 +9,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   
 theme: jekyll-theme-minimal
 image:
-  background: port.png
+  background: "images/port.png"
+navbar-img: "images/port.png"
+footer-img: "images/port.png"
+page-img: "images/port.png"
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
