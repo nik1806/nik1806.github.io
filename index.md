@@ -4,11 +4,11 @@
 
 ### Computer Vision and Robotics projects
 
+---
 [ multiple object tracking](https://github.com/nik1806/multi_obj_track_multiprocess)
 <img src="images/multiple.jpeg?raw=true"/>
 
 ---
-Motion-Analysis
 [ Motion-Analysis](https://github.com/nik1806/Motion-Analysis)
 <img src="images/motionanal.jpeg?raw=true"/>
 
