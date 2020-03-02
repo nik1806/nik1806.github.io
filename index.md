@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Computer Vision and Robotics projects
 
 [ multiple object tracking](https://github.com/nik1806/multi_obj_track_multiprocess)
 <img src="images/multiple.jpeg?raw=true"/>
@@ -34,13 +34,14 @@ Motion-Analysis
 ---
 
 
-### Category Name 2
+### Other projects
 
-- [Project 1 Title](http://example.com/)
+- [ multiple object tracking](https://github.com/nik1806/multi_obj_track_multiprocess)
+- [ Motion-Analysis](https://github.com/nik1806/Motion-Analysis)
+- [sober_drunk_classification](https://github.com/nik1806/sober_drunk_classification)
 - [Human-Pose-Detection](https://github.com/nik1806/Human-Pose-Detection)
 - [Plant-leaf-infection-detection](https://github.com/nik1806/Plant-leaf-infection-detection)
 - [Multi-UAV-collision-avoidance](https://github.com/nik1806/Multi-UAV-collision-avoidance)
-- [Project 5 Title](http://example.com/)
 
 ---
 
