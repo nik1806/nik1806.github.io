@@ -1,18 +1,17 @@
 ## Portfolio
-
+---
 ### Computer Vision and Robotics projects
 ---
 [ multiple object tracking](https://github.com/nik1806/multi_obj_track_multiprocess)
+
 <img src="images/multiple.jpeg?raw=true"/>
 
 ---
 [ Motion-Analysis](https://github.com/nik1806/Motion-Analysis)
 <img src="images/motionanal.jpeg?raw=true"/>
 
-
 ---
 [sober_drunk_classification](https://github.com/nik1806/sober_drunk_classification)
-
 <img src="images/sober.jpeg?raw=true"/>
 
 
